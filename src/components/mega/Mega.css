@@ -1,0 +1,20 @@
+.Mega input {
+    font-size: 1.4rem;
+    width: 50px;
+}
+.Mega label {
+    margin-right: 10px;
+}
+.Mega .MegaNumero span {
+    background-color: #146c2e;
+    color: #fff;
+    border-radius: 50%;
+    padding: 1px;
+    margin: 5px;
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    vertical-align: center;
+    text-align: center;
+    position: relative;
+}
